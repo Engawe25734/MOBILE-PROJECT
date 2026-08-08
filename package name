@@ -1,0 +1,8 @@
+package com.example.taskmanager
+
+
+namespace = "com.example.taskmanager"
+
+defaultConfig {
+    applicationId = "com.example.taskmanager"
+}
